@@ -6,6 +6,15 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "cz-conventional-changelog": "2.1.0",
     "typescript": "^3.5.3"
+  },
+  "dependencies": {
+    "commitizen": "^3.1.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
