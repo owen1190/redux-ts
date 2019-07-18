@@ -1,0 +1,11 @@
+{
+  "name": "redux-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/owen1190/redux-ts.git",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  }
+}
